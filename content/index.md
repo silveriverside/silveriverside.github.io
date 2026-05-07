@@ -1,8 +1,8 @@
 ---
-title: Welcome to Silveriverside's Research Garden
+title: 银河畔
 ---
 
-This is my digital garden for research notes on the deep connections between mathematics, physics, and deep learning.
+这是银河畔 — 一个关于数学、物理与深度学习深层联系的研究花园。
 
 ## Explore by Topic
 
